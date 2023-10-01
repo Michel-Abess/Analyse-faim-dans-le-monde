@@ -1,0 +1,12 @@
+Ce document contient des travaux de recherche sur la sous-nutrition dans le monde. les données sont issues de la base de données de la FAO.
+
+L'objectif de cette étude est de mener une étude statistique destinée à orienter les recherches vers des pays particuliers, et de mettre en lumière différentes causes de la faim dans le monde.
+
+
+le fichier faim_monde.py contient les scripts en python de l'analyse des données de la FAO et la banque mondiale  en 2013 et met en lumière l’idée que la faim dans le monde n’est pas liée à une limite de production. Il conviendra de l'ouvrir via un IDLE adapté (Visual Studio code par exemple)
+
+La version faim_monde.html permet d'avoir de visualiser les outputs du code
+
+
+
+
